@@ -2,6 +2,6 @@
 #cassandra.host: my-cassandra-cassandr-0.my-cassandra-cassandr.default.svc.cluster.local,my-cassandra-cassandr-1.my-cassandra-cassandr.default.svc.cluster.local
 #cassandra.keyspace: hfcb
 
-spark.master: spark://master:7077
-cassandra.host: 192.168.1.140
+spark.master: spark://iZ8vba8r09vdt7osvopu2nZ:7077
+cassandra.host: 47.92.196.164
 cassandra.keyspace: hfcb
